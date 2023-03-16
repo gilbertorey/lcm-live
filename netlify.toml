@@ -5,13 +5,13 @@
   directory = "functions"
 
 [[redirects]]
-  from = "/pro/*"
+  from = "/ps/*"
   status = 200
   force = true
   conditions = {Role = ["pro"]}
 
 [[redirects]]
-  from = "/pro/*"
+  from = "/ps/*"
   to = "/.netlify/functions/redirect"
   status = 200
   force = true
