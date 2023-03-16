@@ -184,6 +184,26 @@
   align-items: center;
 }
 
+
+@media screen and (max-width: 991px) {
+  .mag {
+    min-height: 586px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .mag {
+    min-height: 366px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .mag {
+    min-height: 244px;
+  }
+}
+
+
 @font-face {
   font-family: 'Chase';
   src: url('../fonts/ChaseLight.otf') format('opentype');
