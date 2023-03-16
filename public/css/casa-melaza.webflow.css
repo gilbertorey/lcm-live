@@ -48,8 +48,8 @@
 }
 
 .mag {
-  max-width: 1180px;
-  min-height: 720px;
+  width: 100%;
+  height: 720px;
   background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg');
   background-position: 50% 50%;
   background-size: contain;
@@ -187,19 +187,19 @@
 
 @media screen and (max-width: 991px) {
   .mag {
-    min-height: 586px;
+    height: 586px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .mag {
-    min-height: 366px;
+    height: 366px;
   }
 }
 
 @media screen and (max-width: 479px) {
   .mag {
-    min-height: 244px;
+    height: 244px;
   }
 }
 
