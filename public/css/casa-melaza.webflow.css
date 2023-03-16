@@ -157,6 +157,10 @@
   text-transform: uppercase;
 }
 
+.heading-2 {
+  font-weight: 300;
+}
+
 .button {
   border: 1px solid #000;
   border-radius: 3px;
