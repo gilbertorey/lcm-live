@@ -36,6 +36,8 @@ label {
 input {
   border: 1px solid black;
   padding: 0.5em 0.75em;
+    height: 60px;
+
 }
 
 label + input {
@@ -48,4 +50,5 @@ button {
   padding: 0.5em 0.75em;
   color: white;
   font-weight: 300;
+  height: 60px;
 }
