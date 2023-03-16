@@ -3,22 +3,20 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Login | Password-protected pages on Netlify</title>
+    <title>Login | La Casa Melaza Private Showing</title>
     <link rel="stylesheet" href="/styles.css" />
   </head>
-  <body>
-    <nav>
-      <a href="/">Home</a>
-      <a href="/pro/">Pro</a>
-    </nav>
-    <main>
-      <h1>Login</h1>
-      <p>This is where you gain access to the "/pro/" area.</p>
+  <body class="lcm-body">
+    <div class="section wf-section>
+    <div class="w-container">
+      <h1 class="heading"> Private Showing Login</h1>
       <form action="/.netlify/functions/login" method="POST">
         <label for="password">Password</label>
         <input type="password" name="password" id="password" />
         <button type="submit">Get access</button>
       </form>
-    </main>
+    </div>
+    </div>
   </body>
 </html>
+
