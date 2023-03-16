@@ -40,9 +40,9 @@ input {
 
 }
 
-label + input {
+/*label + input {
   margin-top: 0.25em;
-}
+}*/
 
 button {
   background: black;
