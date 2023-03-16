@@ -1,0 +1,147 @@
+.utility-page-wrap {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  max-height: 100%;
+  max-width: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.utility-page-content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 260px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  text-align: center;
+}
+
+.utility-page-form {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+}
+
+.mag {
+  max-width: 1180px;
+  min-height: 720px;
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.mag._1 {
+  background-image: url('../images/Screenshot-2023-03-16-at-2.30.48-AM.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.mag._11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 720px;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  background-image: url('../images/Screenshot-2023-03-16-at-2.31.39-AM.png');
+}
+
+.mag._2 {
+  background-image: url('../images/Screenshot-2023-03-16-at-2.30.55-AM.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.mag._3 {
+  background-image: url('../images/Screenshot-2023-03-16-at-2.31.00-AM.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.mag._4 {
+  background-image: url('../images/Screenshot-2023-03-16-at-2.31.07-AM.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.mag._5 {
+  background-image: url('../images/Screenshot-2023-03-16-at-2.31.15-AM.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.mag._6 {
+  background-image: url('../images/Screenshot-2023-03-16-at-2.31.19-AM.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.mag._7 {
+  background-image: url('../images/Screenshot-2023-03-16-at-2.31.26-AM.png');
+}
+
+.mag._8 {
+  background-image: url('../images/Screenshot-2023-03-16-at-2.31.29-AM.png');
+}
+
+.mag._9 {
+  background-image: url('../images/Screenshot-2023-03-16-at-2.31.32-AM.png');
+}
+
+.mag._10 {
+  background-image: url('../images/Screenshot-2023-03-16-at-2.31.36-AM.png');
+}
+
+.container {
+  max-width: 1180px;
+}
+
+._100 {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  width: 100%;
+  height: 100%;
+  min-height: 720px;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
